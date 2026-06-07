@@ -1,80 +1,77 @@
 {
-    "WORLD_PERSISTENTLEVEL":      "0x38",
-    "WORLD_GAMESTATE":            "0x220",
-    "WORLD_OWNINGGAMEINSTANCE":   "0x280",
+    "WORLD_PERSISTENTLEVEL":        "0x38",
+    "WORLD_GAMESTATE":              "0x220",
+    "WORLD_OWNINGGAMEINSTANCE":     "0x280",
 
-    "GAMEINSTANCE_LOCALPLAYERS":  "0x40",
+    "GAMEINSTANCE_LOCALPLAYERS":    "0x40",
 
-    "PLAYER_PLAYERCONTROLLER":    "0x38",
+    "PLAYER_PLAYERCONTROLLER":      "0x38",
 
-    "PC_ACKNOWLEDGEDPAWN":        "0x7C8",
-    "PC_PLAYERCAMERAMANAGER":     "0x7E0",
+    "PC_ACKNOWLEDGEDPAWN":          "0x7C8",
+    "PC_PLAYERCAMERAMANAGER":       "0x7E0",
 
-    "CTRL_CONTROLROTATION":       "0x798",
+    "CTRL_CONTROLROTATION":         "0x798",
 
-    "PAWN_PLAYERSTATE":           "0x728",
+    "PAWN_PLAYERSTATE":             "0x728",
 
-    "ACTOR_ROOTCOMPONENT":        "0x500",
+    "ACTOR_ROOTCOMPONENT":          "0x500",
 
-    "SCN_RELATIVELOCATION":       "0x218",
-    "SCN_COMPONENTTOWORLD":       "0x1C0",
+    "SCN_RELATIVELOCATION":         "0x218",
+    "SCN_COMPONENTTOWORLD":         "0x1C0",
 
-    "SKM_CACHED_COMPONENT_SPACE": "0xE60",
+    "SKM_CACHED_COMPONENT_SPACE":   "0xE60",
 
-    "PCM_CAMERACACHEPRIVATE":     "0x1D00",
-    "CCE_POV":                    "0x10",
+    "PCM_CAMERACACHEPRIVATE":       "0x1D00",
+    "CCE_POV":                      "0x10",
 
-    "MVI_LOCATION":               "0x00",
-    "MVI_ROTATION":               "0x18",
-    "MVI_FOV":                    "0x30",
+    "MVI_LOCATION":                 "0x00",
+    "MVI_ROTATION":                 "0x18",
+    "MVI_FOV":                      "0x30",
 
-    "PS_PAWNPRIVATE":             "0x798",
-    "PS_PLAYERNAMEPRIVATE":       "0x7B8",
+    "PS_PAWNPRIVATE":               "0x798",
+    "PS_PLAYERNAMEPRIVATE":         "0x7B8",
 
-    "FSTRING_DATA":               "0x00",
-    "FSTRING_COUNT":              "0x08",
+    "FSTRING_DATA":                 "0x00",
+    "FSTRING_COUNT":                "0x08",
 
-    "MPS_MARVELCHARACTER":        "0x818",
-    "MPS_ORIGINALTEAMID":         "0x838",
-    "MPS_BATTLESIDE":             "0x83C",
-    "MPS_SELECTEDHEROROLE":       "0x83E",
-    "MPS_BISALIVE":               "0x850",
-    "MPS_SELECTEDHEROID":         "0x8A8",
-    "MPS_KILLSCORE":              "0x9A0",
-    "MPS_DEATHSCORE":             "0x9A4",
-    "MPS_ASSISTSCORE":            "0x9A8",
-    "MPS_KILLSTREAK":             "0x9AC",
+    "MPS_MARVELCHARACTER":          "0x818",
+    "MPS_ORIGINALTEAMID":           "0x838",
+    "MPS_BATTLESIDE":               "0x83C",
+    "MPS_SELECTEDHEROROLE":         "0x83E",
+    "MPS_BISALIVE":                 "0x850",
+    "MPS_SELECTEDHEROID":           "0x8A8",
+    "MPS_KILLSCORE":                "0x9A0",
+    "MPS_DEATHSCORE":               "0x9A4",
+    "MPS_ASSISTSCORE":              "0x9A8",
+    "MPS_KILLSTREAK":               "0x9AC",
 
-    "GS_PLAYERARRAY":             "0x720",
+    "GS_PLAYERARRAY":               "0x720",
 
-    "CHAR_CHILDACTORCOMPONENT":   "0x7A0",
-    "CAC_CHILDACTOR":             "0x340",
-    "CCAB_MESH":                  "0x708",
+    "CHAR_CHILDACTORCOMPONENT":     "0x7A0",
+    "CAC_CHILDACTOR":               "0x340",
+    "CCAB_MESH":                    "0x708",
 
-    "MBC_ABILITYSYSTEMCOM":       "0x1AB8",
-    "MBC_HEROID":                 "0x1AC8",
-    "MBC_CHARACTERHEROROLE":      "0x1B91",
-    "MBC_DEFAULTMESHCOMPONENT":   "0x1C58",
+    "MBC_ABILITYSYSTEMCOM":         "0x1AB8",
+    "MBC_HEROID":                   "0x1AC8",
+    "MBC_CHARACTERHEROROLE":        "0x1B91",
+    "MBC_DEFAULTMESHCOMPONENT":     "0x1C58",
 
-    "ASC_SPAWNEDATTRIBUTES":      "0x3948",
+    "ASC_SPAWNEDATTRIBUTES":        "0x3948",
+    "MBAS_HEALTH":                  "0x40",
+    "MBAS_MAXHEALTH":               "0x50",
+    "MAS_ENERGY":                   "0x158",
+    "MAS_MAXENERGY":                "0x168",
+    "GAD_BASEVALUE":                "0x08",
+    "GAD_CURRENTVALUE":             "0x0C",
 
-    "MBAS_HEALTH":                "0x40",
-    "MBAS_MAXHEALTH":             "0x50",
+    "TARRAY_DATA":                  "0x00",
+    "TARRAY_COUNT":                 "0x08",
 
-    "MAS_ENERGY":                 "0x158",
-    "MAS_MAXENERGY":              "0x168",
+    "OBJ_CLASSPRIVATE":             "0x10",
+    "LEVEL_ACTORS":                 "0x98",
 
-    "GAD_BASEVALUE":              "0x08",
-    "GAD_CURRENTVALUE":           "0x0C",
+    "GWORLD":                       "0xF0C6DD8",
 
-    "TARRAY_DATA":                "0x00",
-    "TARRAY_COUNT":               "0x08",
-
-    "OBJ_CLASSPRIVATE":           "0x10",
-    "LEVEL_ACTORS":               "0x98",
-
-    "GWORLD":                     "0xF0C6DD8",
-
-    "PRIM_LASTRENDERTIME":        "0x340",
-    "PRIM_LASTSUBMITTIME":        "0x344"
+    "PRIM_LASTRENDERTIME":          "0x340",
+    "PRIM_LASTSUBMITTIME":          "0x344"
 }
