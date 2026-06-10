@@ -73,5 +73,23 @@
     "GWORLD":                       "0xF0C6DD8",
 
     "PRIM_LASTRENDERTIME":          "0x340",
-    "PRIM_LASTSUBMITTIME":          "0x344"
+    "PRIM_LASTSUBMITTIME":          "0x344",
+
+    "WFC_USE_CUSTOM_TARGET":        "0x001",
+    "WFC_VIEW_LOCATION":            "0x008",
+    "WFC_VIEW_ROTATION":            "0x020",
+    "WFC_TARGET_LOCATION":          "0x128",
+    "WFC_USE_CUSTOM_FIRE_TRACE":    "0x1E1",
+    "TASK_FIRING_CUSTOM_FIRE_CONTEXT": "0x1A0",
+
+    "ASC_ACTIVATABLE_ABILITIES":    "0xB48",
+    "ASC_ABILITY_SPECS_TARRAY":     "0x110",
+    "SPEC_STRIDE":                  "0x3A0",
+    "SPEC_ABILITY_PTR":             "0x020",
+    "SPEC_NONREP_INSTANCES_TARRAY": "0x300",
+    "SPEC_REP_INSTANCES_TARRAY":    "0x310",
+    "ABILITY_ACTIVE_TASKS_TARRAY":  "0xC68",
+
+    "TASK_ABILITY_PTR":             "0x0B8",
+    "TASK_ABILITY_SYSTEM_COMPONENT": "0x0C0"
 }
