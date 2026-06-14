@@ -51,10 +51,10 @@
     "CAC_CHILDACTOR":               "0x340",
     "CCAB_MESH":                    "0x708",
 
-    "MBC_ABILITYSYSTEMCOM":         "0x1AB8",
-    "MBC_HEROID":                   "0x1AC8",
-    "MBC_CHARACTERHEROROLE":        "0x1B91",
-    "MBC_DEFAULTMESHCOMPONENT":     "0x1C58",
+    "MBC_ABILITYSYSTEMCOM":         "0x1AD8",
+    "MBC_HEROID":                   "0x1AE8",
+    "MBC_CHARACTERHEROROLE":        "0x1BB1",
+    "MBC_DEFAULTMESHCOMPONENT":     "0x1C78",
 
     "ASC_SPAWNEDATTRIBUTES":        "0x3948",
     "MBAS_HEALTH":                  "0x40",
@@ -70,26 +70,8 @@
     "OBJ_CLASSPRIVATE":             "0x10",
     "LEVEL_ACTORS":                 "0x98",
 
-    "GWORLD":                       "0xF0C6DD8",
+    "GWORLD":                       "0xf173088",
 
     "PRIM_LASTRENDERTIME":          "0x340",
-    "PRIM_LASTSUBMITTIME":          "0x344",
-
-    "WFC_USE_CUSTOM_TARGET":        "0x001",
-    "WFC_VIEW_LOCATION":            "0x008",
-    "WFC_VIEW_ROTATION":            "0x020",
-    "WFC_TARGET_LOCATION":          "0x128",
-    "WFC_USE_CUSTOM_FIRE_TRACE":    "0x1E1",
-    "TASK_FIRING_CUSTOM_FIRE_CONTEXT": "0x1A0",
-
-    "ASC_ACTIVATABLE_ABILITIES":    "0xB48",
-    "ASC_ABILITY_SPECS_TARRAY":     "0x110",
-    "SPEC_STRIDE":                  "0x3A0",
-    "SPEC_ABILITY_PTR":             "0x020",
-    "SPEC_NONREP_INSTANCES_TARRAY": "0x300",
-    "SPEC_REP_INSTANCES_TARRAY":    "0x310",
-    "ABILITY_ACTIVE_TASKS_TARRAY":  "0xC68",
-
-    "TASK_ABILITY_PTR":             "0x0B8",
-    "TASK_ABILITY_SYSTEM_COMPONENT": "0x0C0"
+    "PRIM_LASTSUBMITTIME":          "0x344"
 }
